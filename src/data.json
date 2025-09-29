@@ -69,20 +69,7 @@
     "lat": 20.868,
     "lon": 106.6837
   },
-  "locationInfo": [
-    {
-      "title": "🚌 Xe đưa đón từ Hà Nội",
-      "desc": "🚩 Điểm khởi hành: Capital Palace, 29 Liễu Giai, Ba Đình, Hà Nội - (https://maps.app.goo.gl/1G4jpvdWoM9q9hCs6|Google map)\n⏰ Thời gian: 7:30 sáng ngày 12/10/2025\n🚗 Loại xe: Xe 45 chỗ có điều hòa\n📞 Liên hệ: [Sẽ cập nhật]\n⏱️ Thời gian di chuyển: khoảng 2 tiếng"
-    },
-    {
-      "title": "🚌 Xe đưa đón từ Bắc Giang",
-      "desc": "🚩 Điểm khởi hành: Nhà văn hóa Yên Lư, Yên Dũng, Bắc Giang\n⏰ Thời gian: 7:00 sáng ngày 12/10/2025\n🚗 Loại xe: Xe 45 chỗ có điều hòa\n📞 Liên hệ: [Sẽ cập nhật]\n⏱️ Thời gian di chuyển: khoảng 2.5 tiếng"
-    },
-    {
-      "title": "🚌 Xe đưa đón từ Hải Dương",
-      "desc": "🚩 Điểm khởi hành: Nhà văn hóa Liên Mạc, Thanh Hà, Hải Dương\n⏰ Thời gian: 8:00 sáng ngày 12/10/2025\n🚗 Loại xe: Xe 45 chỗ có điều hòa\n📞 Liên hệ: [Sẽ cập nhật]\n⏱️ Thời gian di chuyển: khoảng 1 tiếng"
-    }
-  ],
+  "locationInfo": [],
   "emojis": [
     "❤️",
     "💛",
