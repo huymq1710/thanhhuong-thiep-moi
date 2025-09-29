@@ -19,6 +19,18 @@ body {
   display: flex;
   justify-content: center;
   background-color: #E0E7D9;
+  
+  /* Mobile optimization for Vietnamese text */
+  @media (max-width: 768px) {
+    /* Cải thiện hiển thị văn bản tiếng Việt trên mobile */
+    word-break: keep-all;
+    overflow-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    /* Giảm letter-spacing một chút để tiết kiệm không gian */
+    letter-spacing: -0.01em;
+  }
 }
 
 /* Vietnamese-compatible elegant fonts for wedding invitation */
