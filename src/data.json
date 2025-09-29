@@ -1,0 +1,90 @@
+{
+  "greeting": {
+    "title": "Hương \uD83D\uDC8D Huy\nsẽ kết hôn!",
+  "message": "\nThương nhau từ thuở thiếu thời\nƯớc mong chăm sóc, trọn đời có nhau.\nCho dù mưa nắng ngày sau,\nNguyên con lợn cưới, trầu cau cưới nàng.\nVu quy kèn pháo rình rang\nKính mong cô bác họ hàng chung vui.",
+    "host": {
+      "groom": {
+        "name": "Quang Huy",
+        "relation": "Con trai",
+        "parents": [
+          {
+            "relation": "Bố",
+            "name": "Mạc Mạnh Hùng"
+          },
+          {
+            "relation": "Mẹ",
+            "name": "Vũ Thị Hạnh"
+          }
+        ]
+      },
+      "bride": {
+        "name": "Thanh Hương",
+        "relation": "Con gái",
+        "parents": [
+          {
+            "relation": "Bố",
+            "name": "Hoàng Minh Đoàn"
+          },
+          {
+            "relation": "Mẹ",
+            "name": "Đỗ Thị Vân"
+          }
+        ]
+      }
+    },
+    "eventDetail": "12 tháng 10 năm 2025 (Chủ Nhật) 17:00\nNhà văn hoá Tân Thanh, Hồng An, Hải Phòng"
+  },
+  "hostInfo": [
+    {
+      "host": "🤵🏻‍♂️ Phía nhà trai",
+      "accountInfo": [
+        {
+          "name": "Mạc Quang Huy",
+          "relation": "🤵🏻‍♂️ Chú rể",
+          "bank": "TECHCOMBANK - ",
+          "account": "9947123810",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        }
+      ]
+    },
+    {
+      "host": "👰🏻‍♀️ Phía nhà gái",
+      "accountInfo": [
+        {
+          "name": "Hoàng Thanh Hương",
+          "relation": "👰🏻‍♀️ Cô dâu",
+          "bank": "VIETTINBANK - ",
+          "account": "103870598351",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        }
+      ]
+    }
+  ],
+  "mapInfo": {
+    "address1": "\n\nNhà văn hoá Tân Thanh, Hồng An, Hải Phòng\n17:00 - 12/10/2025",
+    "address2": "🏰 Nhà văn hoá Tân Thanh",
+    "googleMap": "https://maps.app.goo.gl/9SESEEagXjNcsQLf6",
+    "lat": 20.868,
+    "lon": 106.6837
+  },
+  "locationInfo": [],
+  "emojis": [
+    "❤️",
+    "💛",
+    "💌",
+    "🥹",
+    "🥳",
+    "👰🏻‍",
+    "🤵🏻‍️",
+    "🤍",
+    "✨",
+    "💍",
+    "💒",
+    "💕",
+    "😍",
+    "🔔",
+    "💘"
+  ]
+}
