@@ -1,6 +1,6 @@
 {
   "greeting": {
-    "title": "Hương \uD83D\uDC8D Huy\nsẽ kết hôn!",
+    "title": "Huy \uD83D\uDC8D Hương\nsẽ kết hôn!",
   "message": "\nThương nhau từ thuở thiếu thời\nƯớc mong chăm sóc, trọn đời có nhau.\nCho dù mưa nắng ngày sau,\nNguyên con lợn cưới, trầu cau cưới nàng.\nVu quy kèn pháo rình rang\nKính mong cô bác họ hàng chung vui.",
     "host": {
       "groom": {
@@ -32,7 +32,7 @@
         ]
       }
     },
-    "eventDetail": "12 tháng 10 năm 2025 (Chủ Nhật) 17:00\nNhà văn hoá Tân Thanh, Hồng An, Hải Phòng"
+    "eventDetail": "12 tháng 10 năm 2025 (Chủ Nhật) 10:00\nCảnh Hưng Palace, Hải Phòng"
   },
   "hostInfo": [
     {
@@ -63,13 +63,26 @@
     }
   ],
   "mapInfo": {
-    "address1": "\n\nNhà văn hoá Tân Thanh, Hồng An, Hải Phòng\n17:00 - 12/10/2025",
-    "address2": "🏰 Nhà văn hoá Tân Thanh",
+    "address1": "\n\nCảnh Hưng Palace, Hải Phòng\n10:00 - 12/10/2025",
+    "address2": "Số 32 Khu Đô Thị Mới, Quán Toan, Hải Phòng\nTầng 1\n02257106868",
     "googleMap": "https://maps.app.goo.gl/9SESEEagXjNcsQLf6",
     "lat": 20.868,
     "lon": 106.6837
   },
-  "locationInfo": [],
+  "locationInfo": [
+    {
+      "title": "🚌 Xe đưa đón từ Hà Nội",
+      "desc": "🚩 Điểm khởi hành: Capital Palace, 29 Liễu Giai, Ba Đình, Hà Nội - (https://maps.app.goo.gl/1G4jpvdWoM9q9hCs6|Google map)\n⏰ Thời gian: 7:30 sáng ngày 12/10/2025\n🚗 Loại xe: Xe 45 chỗ có điều hòa\n📞 Liên hệ: [Sẽ cập nhật]\n⏱️ Thời gian di chuyển: khoảng 2 tiếng"
+    },
+    {
+      "title": "🚌 Xe đưa đón từ Bắc Giang",
+      "desc": "🚩 Điểm khởi hành: Nhà văn hóa Yên Lư, Yên Dũng, Bắc Giang\n⏰ Thời gian: 7:00 sáng ngày 12/10/2025\n🚗 Loại xe: Xe 45 chỗ có điều hòa\n📞 Liên hệ: [Sẽ cập nhật]\n⏱️ Thời gian di chuyển: khoảng 2.5 tiếng"
+    },
+    {
+      "title": "🚌 Xe đưa đón từ Hải Dương",
+      "desc": "🚩 Điểm khởi hành: Nhà văn hóa Liên Mạc, Thanh Hà, Hải Dương\n⏰ Thời gian: 8:00 sáng ngày 12/10/2025\n🚗 Loại xe: Xe 45 chỗ có điều hòa\n📞 Liên hệ: [Sẽ cập nhật]\n⏱️ Thời gian di chuyển: khoảng 1 tiếng"
+    }
+  ],
   "emojis": [
     "❤️",
     "💛",

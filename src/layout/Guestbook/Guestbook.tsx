@@ -33,7 +33,7 @@ export default Guestbook;
 
 const StyledHeading = styled.p`
   font-family: 'Crimson Text', serif;
-  font-size: 1.1rem;
+  font-size: 0.77rem;
   margin: 10px 0 20px 0;
   white-space: pre-line;
   text-align: center;
@@ -47,12 +47,12 @@ const StyledHeading = styled.p`
   
   &::before {
     content: '💌 ';
-    font-size: 1.2rem;
+    font-size: 0.84rem;
   }
   
   &::after {
     content: ' 💕';
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
 `;
 
@@ -70,7 +70,7 @@ const ToggleButton = styled.button`
   border-radius: 20px;
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(248, 244, 249, 0.9) 100%);
   color: #44484d;
-  font-size: 0.95rem;
+  font-size: 0.665rem;
   font-family: 'Crimson Text', serif;
   font-weight: 500;
   cursor: pointer;
@@ -100,7 +100,7 @@ const CommentsSection = styled.div`
 
 const CommentsTitle = styled.h3`
   margin: 0 0 16px 0;
-  font-size: 1.2rem;
+  font-size: 0.84rem;
   color: #44484d;
   text-align: center;
   font-family: 'Playfair Display', serif;

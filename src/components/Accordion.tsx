@@ -63,7 +63,7 @@ const AccordionHeader = styled.div<{ isActive: boolean }>`
 
 const AccordionContent = styled.div`
   font-family: 'Crimson Text', serif;
-  font-size: 14px;
+  font-size: 9.8px;
   text-align: justify;
   padding: 10px 20px;
   background-color: #ffffff;

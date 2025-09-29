@@ -28,7 +28,7 @@ const GoogleMap = () => {
         background: 'rgba(255, 255, 255, 0.9)',
         padding: '6px 10px',
         borderRadius: '20px',
-        fontSize: '0.8rem',
+        fontSize: '0.56rem',
         fontFamily: 'Crimson Text, serif',
         color: '#44484d',
         backdropFilter: 'blur(4px)',

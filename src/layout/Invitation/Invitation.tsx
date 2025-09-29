@@ -42,7 +42,7 @@ const InvitationWrapper = styled.div`
     top: -15px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 2rem;
+    font-size: 1.4rem;
     background: white;
     padding: 8px 12px;
     border-radius: 50%;

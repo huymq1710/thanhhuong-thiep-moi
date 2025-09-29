@@ -75,7 +75,7 @@ const NameInput = styled.input`
   box-sizing: border-box;
   border-radius: 12px;
   padding: 14px 16px;
-  font-size: 1rem;
+  font-size: 0.7rem;
   line-height: 1.4;
   outline: none;
   border: 2px solid rgba(232, 140, 166, 0.3);
@@ -108,7 +108,7 @@ const MessageInput = styled.textarea`
   box-sizing: border-box;
   border-radius: 12px;
   padding: 14px 16px;
-  font-size: 1rem;
+  font-size: 0.7rem;
   line-height: 1.5;
   outline: none;
   border: 2px solid rgba(232, 140, 166, 0.3);
@@ -139,7 +139,7 @@ const SubmitButton = styled.button`
   width: 100%;
   padding: 14px 24px;
   border-radius: 25px;
-  font-size: 1.1rem;
+  font-size: 0.77rem;
   line-height: 1.5;
   border: none;
   background: linear-gradient(135deg, #e88ca6 0%, #d678a0 100%);

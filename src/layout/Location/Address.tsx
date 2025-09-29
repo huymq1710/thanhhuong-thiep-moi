@@ -119,7 +119,7 @@ const Way = styled.div`
 
 const TransportTitle = styled.h3`
   font-family: 'Playfair Display', serif;
-  font-size: 1.1rem;
+  font-size: 0.77rem;
   font-weight: 600;
   color: #e88ca6;
   margin: 0 0 8px 0;
@@ -142,7 +142,7 @@ const TransportTitle = styled.h3`
 
 const TransportDescription = styled.div`
   font-family: 'Crimson Text', serif;
-  font-size: 0.95rem;
+  font-size: 0.665rem;
   line-height: 1.6;
   color: #44484d;
   margin: 0;

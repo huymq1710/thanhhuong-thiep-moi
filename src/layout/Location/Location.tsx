@@ -27,7 +27,7 @@ const LocationTitle = styled.p`
   color: #e88ca6;
   white-space: pre-line;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 0.77rem;
   text-align: center;
   /* Không có ::after để loại bỏ đường kẻ dưới */
 `;
@@ -52,7 +52,7 @@ const LocationWrapper = styled.div`
     top: -15px;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 2rem;
+    font-size: 1.4rem;
     background: white;
     padding: 8px 12px;
     border-radius: 50%;

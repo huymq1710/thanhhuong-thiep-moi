@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const Heading1 = styled.p`
   font-family: 'Playfair Display', serif;
-  font-size: 1.5rem;
+  font-size: 1.05rem;
   margin: 10px;
   color: #e88ca6;
   white-space: pre-line;
@@ -11,7 +11,7 @@ export const Heading1 = styled.p`
   
   /* Mobile responsive - tăng font size và điều chỉnh để tránh xuống dòng không mong muốn */
   @media (max-width: 768px) {
-    font-size: 1.35rem;
+    font-size: 0.945rem;
     margin: 8px 0;
     padding: 0 10px;
     /* Cho phép từ được chia nếu quá dài */
@@ -23,20 +23,20 @@ export const Heading1 = styled.p`
   }
   
   @media (max-width: 480px) {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
     margin: 6px 0;
     padding: 0 8px;
   }
   
   @media (max-width: 360px) {
-    font-size: 1.15rem;
+    font-size: 0.805rem;
     padding: 0 5px;
   }
 `;
 
 export const Heading2 = styled.p`
   font-family: 'Crimson Text', serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   margin: 10px;
   white-space: pre-line;
 `;
@@ -48,7 +48,7 @@ export const PointTitle = styled.p`
   color: #e88ca6;
   white-space: pre-line;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 0.77rem;
   position: relative;
   
   &::after {
@@ -64,7 +64,7 @@ export const PointTitle = styled.p`
   
   /* Mobile responsive */
   @media (max-width: 768px) {
-    font-size: 1.05rem;
+    font-size: 0.735rem;
     margin: 0 0 6px 0;
     /* Tránh xuống dòng không mong muốn */
     word-break: keep-all;
@@ -73,12 +73,12 @@ export const PointTitle = styled.p`
   }
   
   @media (max-width: 480px) {
-    font-size: 1rem;
+    font-size: 0.7rem;
     margin: 0 0 5px 0;
   }
   
   @media (max-width: 360px) {
-    font-size: 0.95rem;
+    font-size: 0.665rem;
   }
 `;
 
@@ -98,7 +98,7 @@ export const Paragraph = styled.p`
   @media (max-width: 768px) {
     padding: 16px 12px;
     margin: 12px 8px;
-    font-size: 0.95rem;
+    font-size: 0.665rem;
     line-height: 1.7rem;
     /* Đảm bảo văn bản không bị cắt xấu */
     word-break: keep-all;
@@ -109,14 +109,14 @@ export const Paragraph = styled.p`
   @media (max-width: 480px) {
     padding: 14px 10px;
     margin: 10px 5px;
-    font-size: 0.9rem;
+    font-size: 0.63rem;
     line-height: 1.6rem;
   }
   
   @media (max-width: 360px) {
     padding: 12px 8px;
     margin: 8px 4px;
-    font-size: 0.85rem;
+    font-size: 0.595rem;
     line-height: 1.5rem;
   }
 `;

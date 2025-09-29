@@ -11,7 +11,7 @@ function TestApp() {
         onClick={() => setCount(count + 1)}
         style={{ 
           padding: '10px 20px', 
-          fontSize: '16px', 
+          fontSize: '11.2px', 
           backgroundColor: '#007bff', 
           color: 'white', 
           border: 'none', 

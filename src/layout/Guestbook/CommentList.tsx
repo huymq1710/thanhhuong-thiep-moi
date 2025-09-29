@@ -129,19 +129,19 @@ const CommentHeader = styled.div`
 const SenderName = styled.span`
   font-weight: 600;
   color: #44484d;
-  font-size: 0.95rem;
+  font-size: 0.665rem;
   font-family: 'Playfair Display', serif;
   position: relative;
   
   &::after {
     content: '💕';
     margin-left: 6px;
-    font-size: 0.8rem;
+    font-size: 0.56rem;
   }
 `;
 
 const CommentDate = styled.span`
-  font-size: 0.8rem;
+  font-size: 0.56rem;
   color: rgba(68, 72, 77, 0.7);
   font-family: 'Crimson Text', serif;
   font-style: italic;
@@ -151,7 +151,7 @@ const CommentMessage = styled.p`
   margin: 0;
   line-height: 1.6;
   color: #44484d;
-  font-size: 0.9rem;
+  font-size: 0.63rem;
   white-space: pre-wrap;
   font-family: 'Crimson Text', serif;
   font-weight: 400;
@@ -163,11 +163,11 @@ const LoadingText = styled.div`
   font-style: italic;
   padding: 30px;
   font-family: 'Crimson Text', serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
   
   &::before {
     content: '💌 ';
-    font-size: 1.2rem;
+    font-size: 0.84rem;
   }
 `;
 

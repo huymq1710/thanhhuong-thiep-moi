@@ -62,7 +62,7 @@ const LoadingIndicator = styled.div`
   align-items: center;
   height: 100px;
   color: #666;
-  font-size: 14px;
+  font-size: 9.8px;
   
   &::before {
     content: '';

@@ -24,7 +24,7 @@ const MainImg = styled.img`
 
 const MainTitle = styled.p`
   font-family: 'Dancing Script', cursive;
-  font-size: 2.2rem;
+  font-size: 1.54rem;
   color: #2F2120;
   line-height: 120%;
   white-space: pre-line;
@@ -33,7 +33,7 @@ const MainTitle = styled.p`
 
 const SubTitle = styled.p`
   font-family: 'Crimson Text', serif;
-  font-size: 1.1rem;
+  font-size: 0.77rem;
   color: #2F2120;
   line-height: 140%;
   white-space: pre-line;
