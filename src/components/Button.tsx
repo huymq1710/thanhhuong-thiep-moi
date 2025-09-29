@@ -7,7 +7,7 @@ const Button = styled.button`
   border: 2px solid rgba(232, 140, 166, 0.3);
   outline: none;
   box-shadow: 0 3px 12px rgba(232, 140, 166, 0.2);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 600;
   cursor: pointer;
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(248, 244, 249, 0.9) 100%);

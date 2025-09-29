@@ -6,7 +6,7 @@ const RoundButton = styled.button`
   outline: none;
   border: none;
   box-shadow: 0 4px 15px rgba(232, 140, 166, 0.3);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 600;
   cursor: pointer;
   color: white;

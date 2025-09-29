@@ -27,7 +27,7 @@ const LocationTitle = styled.p`
   color: #e88ca6;
   white-space: pre-line;
   font-weight: 600;
-  font-size: 0.77rem;
+  font-size: 0.847rem;
   text-align: center;
   /* Không có ::after để loại bỏ đường kẻ dưới */
 `;

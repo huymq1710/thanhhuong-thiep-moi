@@ -32,7 +32,7 @@
         ]
       }
     },
-    "eventDetail": "12 tháng 10 năm 2025 (Chủ Nhật) 10:00\nCảnh Hưng Palace, Hải Phòng"
+    "eventDetail": "12 tháng 10 năm 2025 (Chủ Nhật) 17:00\nNhà văn hoá Tân Thanh, Hồng An, Hải Phòng"
   },
   "hostInfo": [
     {
@@ -63,9 +63,9 @@
     }
   ],
   "mapInfo": {
-    "address1": "\n\nCảnh Hưng Palace, Hải Phòng\n10:00 - 12/10/2025",
-    "address2": "Số 32 Khu Đô Thị Mới, Quán Toan, Hải Phòng\nTầng 1\n02257106868",
-    "googleMap": "https://maps.app.goo.gl/9SESEEagXjNcsQLf6",
+    "address1": "\n\nNhà văn hoá Tân Thanh, Hồng An, Hải Phòng\n17:00 - 12/10/2025",
+    "address2": "Nhà văn hoá Tân Thanh",
+    "googleMap": "https://maps.app.goo.gl/h2FxWKuRCZ9GES6m6",
     "lat": 20.868,
     "lon": 106.6837
   },

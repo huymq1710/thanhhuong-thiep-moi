@@ -35,6 +35,7 @@ const GoogleMap = () => {
         border: '1px solid rgba(232, 140, 166, 0.3)',
         boxShadow: '0 2px 8px rgba(232, 140, 166, 0.2)'
       }}>
+        🏰 Đại Bản
       </div>
     </div>
   );
